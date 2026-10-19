@@ -8,3 +8,5 @@ reasons u should hire me:
  - i read the error message. Usually twice.
  - i’m very good at Ctrl+Z
  - fluent in assembly (assembling the crew to go to pub)
+ - can guess red / black 50% of the time in roulette
+ - decent at making burnt toast
