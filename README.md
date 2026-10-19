@@ -7,4 +7,4 @@ reasons u should hire me:
  - <--- that image is fake i promise im sober
  - i read the error message. Usually twice.
  - i’m very good at Ctrl+Z
- - fluent in English
+ - fluent in assembly (assembling the crew to go to pub)
